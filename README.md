@@ -25,8 +25,12 @@ To load the model syntax will be
 
 Now when we make prediction we try 
 
-  # lr.predict(X_test) OR  # lr.predict([[5000-perticular value]])
-  
+  # predict
+    lr.predict(X_test)     OR   lr.predict([[5000-perticular value]])
+
+
+
+
 There is another way to do same , to save and restore model by using JOBLIB 
 
 # what is the use of Pickle ?
