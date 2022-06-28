@@ -37,3 +37,7 @@ There is another way to do same , to save and restore model by using JOBLIB
      It is the method by which we can make model trained ie. we don't need to train our model every time when we change the system or the environment . 
      we simply just make the prediction of an integer value or range of the value.
      It is such a useful tool to the ease of the prediction.
+     
+     a) test our model on/with new data,
+     b) compare multiple models,
+     c) or anything else.
